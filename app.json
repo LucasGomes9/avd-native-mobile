@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "avd-native",
+    "slug": "avd-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.test.noix"
+    }
+  },
+  "name": "avd-native"
+}

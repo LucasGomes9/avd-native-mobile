@@ -1,1 +1,1 @@
-avd-native-mobile
+avd-native
